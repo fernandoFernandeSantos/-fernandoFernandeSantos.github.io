@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: Postdoctoral Researcher in the TARAN Group at INRIA Rennes.
+subtitle: MSCA-BIENVENÜE Postdoctoral Researcher at the TARAN Group, INRIA Rennes.
 
 profile:
   align: right
