@@ -34,11 +34,11 @@ University, followed by a Master's and Ph.D. from the Federal University of Rio 
 Throughout my studies, I have focused on understanding the impact of radiation on devices used in 
 large-scale HPC centers and safety-critical applications.
 
-Currently, I am actively engaged in research at INRIA Rennes in the
-[Taran Group](https://team.inria.fr/taran/), where I explore the 
-fault tolerance and reliability aspects of RISCV and Deep Neural Networks accelerators. 
-This exciting work allows me to contribute to advancing these emerging technologies and 
-their applications across various domains. I am eager to share my journey, insights, 
-ongoing projects, and research publications with you through this personal website. 
-Stay tuned for updates and collaborations as we collectively push the boundaries of 
+Currently, I am engaged in research at INRIA Rennes in the
+[Taran Group](https://team.inria.fr/taran/), where I explore the
+fault tolerance and reliability aspects of RISCV and Deep Neural Networks accelerators.
+This exciting work allows me to contribute to advancing these emerging technologies and
+their applications across various domains. I am eager to share my journey, insights,
+ongoing projects, and research publications with you through this personal website.
+Stay tuned for updates and collaborations as we collectively push the boundaries of
 knowledge in computer science, shaping more reliable and efficient computing systems.
