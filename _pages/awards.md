@@ -15,6 +15,7 @@ horizontal: true
   [McCluskey Doctoral Thesis Award](https://cas.polito.it/ETS23/proceedings/informal/S8C-1.pdf) for my thesis titled
   _Understanding and Improving GPUs’ Reliability Combining Beam Experiments with Fault Simulation_ at the IEEE European Test Symposium 2023.
 
+- I won the McCluskey Doctoral Thesis Award at the 2023 IEEE International Test Conference (ITC).
 
 ## 2022
 
