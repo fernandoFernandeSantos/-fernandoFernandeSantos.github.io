@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: MSCA-BIENVENÜE Postdoctoral Researcher at the TARAN Group, INRIA Rennes.
+subtitle: Researcher at the TARAN Group, INRIA Rennes.
 
 profile:
   align: right
@@ -26,15 +26,15 @@ social: false  # includes social icons at the bottom of the page
 
 [//]: # ()
 [//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;http://fortawesome.github.io/Font-Awesome/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
+I specialize in researching the reliability of parallel architectures, efficient hardening techniques, 
+and mitigating radiation-induced effects. I started my academic journey with a Bachelor's in Computer Science 
+from the Western Paraná State University. I then pursued a Master's and Ph.D. from the Federal University of 
+Rio Grande do Sul in Brazil. After completing my Ph.D., I moved to Rennes, France, to work as a postdoctoral researcher
+in the MSCA-BIENVENÜE Postdoctoral Program in the INRIA TARAN team. Throughout my academic career, 
+I have focused on understanding the impact of radiation on devices used in large-scale HPC centers 
+and safety-critical applications.
 
-I'm Fernando Fernandes dos Santos, a researcher specializing in the reliability of parallel architectures, 
-efficient hardening techniques, and mitigating radiation-induced effects.
-My academic journey began with a Bachelor's degree in Computer Science from the Western Paraná State 
-University, followed by a Master's and Ph.D. from the Federal University of Rio Grande do Sul, Brazil. 
-Throughout my studies, I have focused on understanding the impact of radiation on devices used in 
-large-scale HPC centers and safety-critical applications.
-
-Currently, I am engaged in research at INRIA Rennes in the
+Currently, I'm a researcher at INRIA Rennes in the
 [Taran Group](https://team.inria.fr/taran/), where I explore the
 fault tolerance and reliability aspects of RISCV and Deep Neural Networks accelerators.
 This exciting work allows me to contribute to advancing these emerging technologies and
