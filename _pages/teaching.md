@@ -40,3 +40,7 @@ nav_order: 5
 ## 2024
 
 - 1st Semester of 2024: Introduction to C language and Unix (University of Rennes)
+
+## 2020 - 2021
+
+**Introduction to programming**: C/Python for students in STEM courses at the Federal University of Rio Grande do Sul, Brazil.
