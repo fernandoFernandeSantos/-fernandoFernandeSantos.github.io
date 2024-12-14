@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Classes given at the University of Rennes and students supervision
+description: Classes given at the University of Rennes
 nav: true
 nav_order: 4
 ---
@@ -12,9 +12,7 @@ nav_order: 4
 [//]: # ()
 [//]: # (Organize your courses by years, topics, or universities, however you like!)
 
-# Classes
-
-## 2024
+# 2024
 
 - 1st Semester of 2024: 
   - Introduction to C language and Unix (University of Rennes)
@@ -22,6 +20,6 @@ nav_order: 4
 and El-mehdi L. The materials of this classe can be 
 found at: [TinyML GitLab](https://gitlab.inria.fr/sfilip/tinyml2023_lectures) 
 
-## 2020 - 2021
+# 2020 - 2021
 
 **Introduction to programming**: C/Python for students in STEM courses at the Federal University of Rio Grande do Sul, Brazil.
