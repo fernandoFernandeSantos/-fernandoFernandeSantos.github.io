@@ -4,7 +4,7 @@ title: Awards
 permalink: /awards/
 description: A list of my academic awards.
 nav: true
-nav_order: 4
+nav_order: 3
 years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2014]
 horizontal: true
 ---
